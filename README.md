@@ -1,6 +1,5 @@
 # Course-Projects
 Unit 0 - Class Introduction
-Books & Supplemental Reading
 Unit 1 - Introduction to Computers
 Unit 2 - Introduction to Microsoft Word and Word Processing
 Unit 3 - Intermediate Word Processing
@@ -11,8 +10,7 @@ Unit 7 - The Internet and Networking
 Unit 8 - Introduction to Spreadsheets (MS Excel + Google Sheets)
 Unit 9 - Intermediate Spreadsheets (MS Excel + Google Sheets)
 Unit 10 - Advanced Spreadsheets (MS Excel + Google Sheets)
-Spring Break 4/14-4/16, Native American Day, 4/17/2025 & Cesar Chavez Day, 4/18/2025- No Class
-Midterm (covering Units 1-10) & Unit 11 - Introduction to Databases (MS Access, LibreOffice & Basic Skills)
+Unit 11 - Introduction to Databases (MS Access, LibreOffice & Basic Skills)
 Unit 12 - Intermediate Databases
 Unit 13 - Advanced Databases
 Unit 14 - Introduction to Presentations & Presentation Software (MS PowerPoint + Google Slides)
