@@ -1,5 +1,5 @@
 # Course-Projects
-Unit 0 - Class Introduction
+# Unit 0 - Class Introduction
 Unit 1 - Introduction to Computers
 Unit 2 - Introduction to Microsoft Word and Word Processing
 Unit 3 - Intermediate Word Processing
